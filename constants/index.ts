@@ -62,6 +62,11 @@ export const Socials = [
     src: "/wa.png",
     url: "http://wa.link/mi0uso",
   },
+  {
+    name: "Facebook",
+    src: "/tiktok.png",
+    url: "https://www.tiktok.com/@arfiiansyaahh?is_from_webapp=1&sender_device=pc",
+  },
 ];
 
 export const Frontend_skill = [];
